@@ -6,3 +6,5 @@ ahora vamos a utlizar git reset HEAD
 
 
 vamos a usar git --soft ya que usamos hard 
+
+ahora vamos usar rm chached
