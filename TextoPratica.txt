@@ -3,3 +3,6 @@ En este documento se estara trabajando con el programa de control de versiones g
 hemos aprendido a utilizar varios comandos 
 
 ahora vamos a utlizar git reset HEAD
+
+
+vamos a usar git --soft ya que usamos hard 
